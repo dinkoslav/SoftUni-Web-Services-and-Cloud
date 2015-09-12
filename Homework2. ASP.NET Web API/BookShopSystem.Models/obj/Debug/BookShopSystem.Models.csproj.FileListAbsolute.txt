@@ -1,0 +1,4 @@
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.Models\bin\Debug\BookShopSystem.Models.dll
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.Models\bin\Debug\BookShopSystem.Models.pdb
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.dll
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.Models\obj\Debug\BookShopSystem.Models.pdb

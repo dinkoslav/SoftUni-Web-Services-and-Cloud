@@ -1,0 +1,12 @@
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.Data\bin\Debug\BookShopSystem.Data.dll.config
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.Data\bin\Debug\BookShopSystem.Data.dll
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.Data\bin\Debug\BookShopSystem.Data.pdb
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.Data\bin\Debug\BookShopSystem.Models.dll
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.Data\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.Data\bin\Debug\BookShopSystem.Models.pdb
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.Data\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.dll
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.pdb

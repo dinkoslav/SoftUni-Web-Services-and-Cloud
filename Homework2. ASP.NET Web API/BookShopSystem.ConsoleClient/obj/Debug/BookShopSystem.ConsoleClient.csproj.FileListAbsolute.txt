@@ -1,0 +1,14 @@
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.ConsoleClient.exe.config
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.ConsoleClient.exe
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.ConsoleClient.pdb
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.Data.dll
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.Models.dll
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.Data.pdb
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.Models.pdb
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.exe
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.pdb

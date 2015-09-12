@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopApi.Dto\bin\Debug\BookShopApi.Dto.dll
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopApi.Dto\bin\Debug\BookShopApi.Dto.pdb
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopApi.Dto\obj\Debug\BookShopApi.Dto.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopApi.Dto\obj\Debug\BookShopApi.Dto.dll
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework2. ASP.NET Web API\BookShopApi.Dto\obj\Debug\BookShopApi.Dto.pdb

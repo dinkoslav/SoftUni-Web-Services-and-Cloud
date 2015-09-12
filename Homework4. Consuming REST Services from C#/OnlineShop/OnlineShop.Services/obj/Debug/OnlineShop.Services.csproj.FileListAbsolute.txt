@@ -1,0 +1,1 @@
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework3. Consuming REST Services from C#\OnlineShop\OnlineShop.Services\obj\Debug\OnlineShop.Services.csprojResolveAssemblyReference.cache

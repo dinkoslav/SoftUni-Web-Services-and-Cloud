@@ -1,0 +1,14 @@
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework3. Consuming REST Services from C#\OnlineShop\OnlineShop.Model\bin\Debug\OnlineShop.Model.dll.config
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework3. Consuming REST Services from C#\OnlineShop\OnlineShop.Model\bin\Debug\OnlineShop.Model.dll
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework3. Consuming REST Services from C#\OnlineShop\OnlineShop.Model\bin\Debug\OnlineShop.Model.pdb
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework3. Consuming REST Services from C#\OnlineShop\OnlineShop.Model\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework3. Consuming REST Services from C#\OnlineShop\OnlineShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework3. Consuming REST Services from C#\OnlineShop\OnlineShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework3. Consuming REST Services from C#\OnlineShop\OnlineShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework3. Consuming REST Services from C#\OnlineShop\OnlineShop.Model\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework3. Consuming REST Services from C#\OnlineShop\OnlineShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework3. Consuming REST Services from C#\OnlineShop\OnlineShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework3. Consuming REST Services from C#\OnlineShop\OnlineShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework3. Consuming REST Services from C#\OnlineShop\OnlineShop.Model\obj\Debug\OnlineShop.Models.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework3. Consuming REST Services from C#\OnlineShop\OnlineShop.Model\obj\Debug\OnlineShop.Model.dll
+D:\Homeworks\SoftUni\Web Services and Cloud\Homework3. Consuming REST Services from C#\OnlineShop\OnlineShop.Model\obj\Debug\OnlineShop.Model.pdb
